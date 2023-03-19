@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeevalkant
-- 👀 I’m interested in the field of DATA SCIENCE
-- 🌱 I’m currently learning the various aspects of data science 
+- 👀Data magician with a passion for coding and problem-solving. Turning complex datasets into actionable insights one line of code at a time. 
+- #datascience #python #analytics
 - 💞️ I’m looking to collaborate on projects as a beginner
 - 📫 Reach me jeevalkantdandona@gmail.com
 <!---
